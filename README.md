@@ -1,4 +1,5 @@
-# About Me 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20&nbsp;MyProfile&fontSize=50&fontAlignY=40&desc=Rosie's&nbsp;GitHub&nbsp;Profile&descAlign=65)
+# 🙋‍♂️About Me 
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;프론트 예비 개발자 이주형입니다.
 
