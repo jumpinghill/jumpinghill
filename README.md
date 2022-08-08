@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20&nbsp;MyProfile&fontSize=50&fontAlignY=40&desc=jumpinghill&nbsp;GitHub&nbsp;Profile&descAlign=65)
 # Hi there 👋
 
-### &nbsp;&nbsp;&nbsp;&nbsp;현재 프론트엔드를 배우고 있는 이주형입니다.
+### &nbsp;&nbsp;&nbsp;&nbsp;안녕하세요. 제 이름은 이주형이고, 현재 프론트엔드개발자가 되기위해 열심히 배우는중입니다.
 
 
 # 🛠Tech Stack🛠
